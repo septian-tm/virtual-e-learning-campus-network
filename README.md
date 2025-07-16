@@ -17,7 +17,6 @@ Proyek simulasi topologi jaringan e-learning untuk lingkungan kampus menggunakan
 ## File
 - `Jaringan-elearning.pkt`: File simulasi utama
 - `dokumentasi/`: Berisi screenshot dan laporan proyek
-- `diagram/`: Gambar topologi jaringan
 
 ## Author
 Septian Tri Mahendra – 2211501453
